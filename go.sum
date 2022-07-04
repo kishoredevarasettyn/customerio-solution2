@@ -1,0 +1,10 @@
+github.com/brianvoe/gofakeit v3.18.0+incompatible h1:wDOmHc9DLG4nRjUVVaxA+CEglKOW72Y5+4WNxUIkjM8=
+github.com/brianvoe/gofakeit v3.18.0+incompatible/go.mod h1:kfwdRA90vvNhPutZWfH7WPaDzUjz+CZFqG+rPkOjGOc=
+github.com/bsm/extsort v0.5.2 h1:LlOR0jEt6sxEkMA/LCTH4VrrDEjj0mGDNje/F4tK4Oo=
+github.com/bsm/extsort v0.5.2/go.mod h1:/xuwDENI0V1n/4VWZAALhkTHWN2RRqRJ7BCD7uJ98ys=
+github.com/bsm/ginkgo v1.16.0 h1:d0FSr//fhUpdWr4uBHBLG+xN1bOYWERSBnfu1hGknfU=
+github.com/bsm/ginkgo v1.16.0/go.mod h1:RabIZLzOCPghgHJKUqHZpqrQETA5AnF4aCSIYy5C1bk=
+github.com/bsm/gomega v1.11.0 h1:wg9DVGPETNZLIbMsseneMV1a7uo/x+wsCyNXdEcifDI=
+github.com/bsm/gomega v1.11.0/go.mod h1:JifAceMQ4crZIWYUKrlGcmbN3bqHogVTADMD2ATsbwk=
+github.com/golang/snappy v0.0.4 h1:yAGX7huGHXlcLOEtBnF4w7FQwA26wojNCwOYAEhLjQM=
+github.com/golang/snappy v0.0.4/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
