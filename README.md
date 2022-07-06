@@ -26,6 +26,13 @@ Key Points
 1) 4 threads(go routines) are being used to keep the memory below 1GB
 2) Status file is being used to maintain the state of the processing. If program gets killed in between, use this file to resume processing
 
+sample usage
+
+```
+go run .\main.go -out data.csv -in .\data\messages.1.data -verify .\data\verify.1.csv  
+go run .\main.go -out data.csv -in .\data\messages.2.data -verify .\data\verify.2.csv -cleanrun y
+```
+
 ### Project Description
 
 For this project, you will write a Go application that summarizes two types of **user behavioural data** stored in a JSON-encoded file. This file contains one activity item per line, each tied to a **user_id**, of the following types:
